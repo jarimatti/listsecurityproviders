@@ -45,7 +45,7 @@ Build and install to local repository using [Maven](http://maven.apache.org).
 You can install the bundle to Karaf once it is in the local Maven repository. Install as you
 would other bundles from Maven repository:
 
-    karaf@root()> install -s mvn:fi.jarimatti.karaf/listsecurityproviders/1.0.0
+    karaf@root()> install -s mvn:fi.jarimatti.karaf/listsecurityproviders/1.0.1
 
 Note that this project is not in public Maven repositories, so at the moment you must build it yourself first.
 
